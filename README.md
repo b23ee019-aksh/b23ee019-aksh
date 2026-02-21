@@ -1,22 +1,10 @@
-# Hi 👋 I'm Akshitha
+# My First Java Program
 
-🎓 B.Tech Student  
-💻 Interested in Java & Core Electronics
+## What this program does
+This program prints Hello World.
 
----
+## Language
+Java
 
-## Skills
-- Java
-- C Programming
-- MATLAB
-- Power Electronics
-
----
-
-## Projects
-Check my repositories below 👇
-
----
-
-## Contact
-Email: yourmail@gmail.com
+## Author
+Akshitha
